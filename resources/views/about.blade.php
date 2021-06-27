@@ -47,7 +47,7 @@
     <div class="rw jcc mb-team-6 circle-blend circle-warning">
         <div class="col-lg-6 text-center mx-auto mb-7">
             <h5 class="fw-bold fs-3 fs-lg-5 lh-sm mb-3">Our Team</h5>
-            <p class="mb-0">ini adalah nama anggota yang mengerjakan website sebagai tugas dari uts pemrograman web<span
+            <p class="mb-0">berikut adalah nama anggota yang mengerjakan website sebagai tugas dari UAS pemrograman web<span
                     class="fw-bold"></span></p>
         </div>
         <div class="col-xxl-9">
@@ -55,19 +55,19 @@
                 <div class="col-sm-team-6 col-lg-team-3 text-center">
                     <div class="wrapperr shadow-square-right"><img class="team-card-1" src="img/team/team1.jpg"
                             width="200" alt="..." /></div>
-                    <h5 class="fw-bold mt-team-3 mb-team-1">Rahmi Nurazizah</h5>
+                    <h5 class="fw-bold mt-team-3 mb-team-1">Rahmi Nurazizah (2019-318)</h5>
                     <p class="jabatan">Ceo</p>
                 </div>
                 <div class="col-sm-team-6 col-lg-team-3 text-center">
                     <div class="wrapperr shadow-square-right"><img class="team-card-1" src="img/team/team2.jpg"
                             width="200" alt="..." /></div>
-                    <h5 class="fw-bold mt-team-3 mb-team-1">Brilliant Alifia NF</h5>
+                    <h5 class="fw-bold mt-team-3 mb-team-1">Brilliant Alifia (2019-302)</h5>
                     <p class="jabatan">Ceo</p>
                 </div>
                 <div class="col-sm-team-6 col-lg-team-3 text-center">
                     <div class="wrapperr shadow-square-right"><img class="team-card-1" src="img/team/team3.jpg"
                             width="200" alt="..." /></div>
-                    <h5 class="fw-bold mt-team-3 mb-team-1">Sukma</h5>
+                    <h5 class="fw-bold mt-team-3 mb-team-1">Sukma (2019-)</h5>
                     <p class="jabatan">Ceo</p>
                 </div>
             </div>
