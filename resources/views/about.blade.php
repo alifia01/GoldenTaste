@@ -67,7 +67,7 @@
                 <div class="col-sm-team-6 col-lg-team-3 text-center">
                     <div class="wrapperr shadow-square-right"><img class="team-card-1" src="img/team/team3.jpg"
                             width="200" alt="..." /></div>
-                    <h5 class="fw-bold mt-team-3 mb-team-1">Sukma (2019-)</h5>
+                    <h5 class="fw-bold mt-team-3 mb-team-1">Sukma (2019-337)</h5>
                     <p class="jabatan">Ceo</p>
                 </div>
             </div>
